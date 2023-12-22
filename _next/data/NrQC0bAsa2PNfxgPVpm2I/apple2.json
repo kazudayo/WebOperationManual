@@ -1,0 +1,1 @@
+{"pageProps":{"apple":"<h2>りんごだよ</h2>\n<p>オレンジじゃないよ</p>\n<h1>こんにちは</h1>\n<div class=\"css-test\">これはHTMLタグとcssのテストです。</div>\n<style>\n.css-test{\n    font-size:80px;\n    color:red;\n}\n</style>","orange":"<h2>オレンジだよ</h2>","fruit":"false"},"__N_SSG":true}
