@@ -1,1 +1,0 @@
-import{u as n}from"./state.b64e4d2e.js";import{u as t,q as e}from"./query.7ed62ca0.js";const u=()=>n("caMd",()=>{const{data:a}=t(async()=>e("/ca901").findOne(),"$caMff1eWiA");return a}),c=()=>n("nvMd",()=>{const{data:a}=t(async()=>e("/nv10").findOne(),"$clTWC2u0Ie");return a});export{c as a,u};
