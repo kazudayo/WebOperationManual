@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as t,V as o}from"./chunks/framework.6Ren_nHE.js";const f=JSON.parse('{"title":"CA90*","description":"","frontmatter":{},"headers":[],"relativePath":"ca-docs/ca.md","filePath":"ca-docs/ca.md"}'),r={name:"ca-docs/ca.md"},c=o("",7),i=[c];function h(n,s,d,l,_,u){return t(),e("div",null,i)}const p=a(r,[["render",h]]);export{f as __pageData,p as default};
