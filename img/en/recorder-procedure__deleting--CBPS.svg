@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 226.77 68.43">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: KozGoPr6N-Regular-90ms-RKSJ-H, 'Kozuka Gothic Pr6N';
+        font-size: 9.21px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #231815;
+      }
+
+      .cls-3, .cls-4 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke: #231815;
+        stroke-width: 6.16px;
+      }
+    </style>
+  </defs>
+  <g id="_レイヤー_2" data-name="レイヤー 2">
+    <rect class="cls-3" width="226.77" height="68.43"/>
+  </g>
+  <g id="_レイヤー_1" data-name="レイヤー 1">
+    <line class="cls-4" x1="97.73" y1="33.17" x2="127.19" y2="33.17"/>
+    <polygon class="cls-2" points="134.71 33.17 122.31 21.63 122.31 44.7 134.71 33.17"/>
+    <text class="cls-1" transform="translate(102.3 9.17)"><tspan x="0" y="0">After</tspan><tspan x="-6.97" y="9">deletion</tspan></text>
+    <image id="_録音した演奏を消去する3_画像" data-name="録音した演奏を消去する3 画像" width="128" height="128" transform="translate(144.57 2.05) scale(.51)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAH8AAACACAYAAAAiebbfAAAACXBIWXMAABWvAAAVrwEEu8dLAAAEIklEQVR4nO2d3W7cIBBGncqR2jfaizx+LvaNWimVWm1VUnaKbfwDDHznSFGyYb1r/MHMGAb88nWef00gx4+fP1/mR6Xf73fUF+Dtdnuq5Bz+sAUwFqkO/gWNdUF8YWYvVf/+8fH0+tvra7NzsTzOzdP5XIUb8Scj+KgX3BOYfWEQXxhXZn+NOCaw7uBo2dqxNgbJ/b6cci90Ib71//Hro2Wp12vvy/2MnmIVV+Jf0WNyjyshUm9BqiufHy4cUX4dCPiEcefzH70+ZT7XArDaeDqXM3QT7XtyBaO4Jcy+MC7FD6b/CKOY5Bp0YfZtY4jN7tGyPd+Xey694UZ8exG3Xq+9N6dsS7QSn+kNfL4wiC/Mp9kniVMPUrdFeaRuY/aFQXxhEF8YxBcG8YVBfGEQfzD2TGwh/kAE4XMbAOIPghU8pwE8zeoxF94HqdnDIzOKTaZ0PefnBeJ1Ab2wN8+gutmPL2o4WW/z4Cqp4/h8g9KageaZPN7MqldrVAKXOXx7FmLa8q3j4R/uzH5uTLBU3kNM4QV8vjDVxac3+qGJz7cNAJ/chqZmHyvQFny+MIgvzHDix64Ed7JO9YCvRpA3ykLK0mD2hane88OWK1tbneXuiZeC4d08npZrcZH6YMmV7XF3n0/ayD0AxgKfL0w3u3HBNnstd9Ox/YA3d+P9/K6i6ayex4kd7+d3Jfh8YZr7fDJ32+Ey4FvzuSkTvDWowy1sGndmP9fnLpW39tmp7/IaM+DzVziSbGJ36PT8AIamK3ZGJTQA70/eaLpWz3Ma19FzW1ot67GOTc2+VytwRjA7I+k5qQSfX4B4Wtqze0N8w1kzbf285wYwnPip5Votvn/rfx5okskzFQ6AzmQBKYHZF6ZJ9q41ySkfeSYD94rhXYUhYrZcF4Ut18VBfGEQXxhy+BKQw1cIcvj8gNkXhhw+Azl8jSGHrw7k8AmDzxeGHL4FFHbwbNLz4ywXr42AW73C4JPbgs8XBvGFIYdPGHL4DEr7AWP2hWmSxrX3sSipnry25Ovs8K7C8PAjjYscPlHI4RMH8YVhH75ByJnqttDzB8EK7fJZulCOIHju3QniD8ae21LEFwbxhUF8YRBfGMQXBvGFmd/vd6nav91uf36r1jtm9/Bu6kN64YzgI9Ybsy9MsucrmkbbsxXq/l/P79m8HSVu7EH0o9chJI7GP3GZfe/SsbmfeYannq8ofAmOpn2FVUxLM3RXb+H+JP7ZVt8rtUx8LK6HvfgJ+IRBfGEQ31D6TseLyZ/I4SvDmX2Da4L4EVf1+l4WeWD2/6I4sIX4lYlv9VqD+MIzfYgvDOJXJL7F82D6ifYLcHSJdziu1jgA4kdcMa27JtrWkqotwa9uEEnx1QIftfoG8PnC7Db7qr1kxHqzLYsobMsCIMk0Tb8Bg49rOGmn1AsAAAAASUVORK5CYII="/>
+    <image id="_録音した演奏を消去する1_画像" data-name="録音した演奏を消去する1 画像" width="128" height="128" transform="translate(17.01 2.05) scale(.51)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAH8AAACACAYAAAAiebbfAAAACXBIWXMAABWvAAAVrwEEu8dLAAAEW0lEQVR4nO2d0W7cIBBFncqR2j/ah3x+HvaP+pCHVpuWiLCAAYPnwr1HqiqHeBe4MDOGwXn5ue9/NkHJ7hr9fr9rBBDwdrt9NXL3m+sXiPUIJ/gPacyLxCdmR2r674+Pb9e/Xl/N6hLyqBtSfXoAJf4WCL5ihyMhs0+MxCcGzuzn8GOC0B20luXuDWOQ0u8rKUdgGvFD/+9ft5bFrnO/V/oZs8QqcOL3mDGl940QaaYgFc7nu45TlD8eBXzEQPr8x6yPmc9cAHY1SHVpZapoH8kVrOCWZPaJgRXfmf4WVjDJVzCN2Q8Hg292W8tqvq+0LjMBJX7YiUfXud8tKTsSbcRnIiGfT4zEJ+ab2VcSJxdK3SZGZp8YiU+MxCdG4hMj8YmR+MRI/AUp3diS+IvhhC8ZABJ/IULBjwbA0wqf9sLnoMfuodmWLnJ+nsM/FzALNXkGJmbf71RXWbR9cIbUcfn8CCxnBiAyedDMKqo16g1sDl/NQcyw/Oh+8Q9Is18aE6TKrWOK2HchWhH5/AGEp43OpKGPxER8Bp/qBgCq8Julzw8HwEo+OZVyjtZGc7O/ohXwY43YNQry+YNw5h75ZQ0SfwChn0cdAEuK77sSi06PmXhEs28S8F0RAK1wkHI0MvvEmMx8/xnY/1lpeQla3j1GyRyTknJlNe7uaebLP/Ign0+MTukSY76270BzN+j164H5rh7ipgd6/Xohn08MRBqXMndtgM3hy/ncmAk+WtTRI+wzkGa/1Oemyq199iwbO/L5B7Qkm2hLN8PKEbRjhmQO87N6yGlcrXVLnZZFa6O52Ue1AmcEC3ckrZJKjpDPH8QMqdsSP8JZM61DG4bEjmtdySzHtcwyebbBHXImC4gFmX1izLJ3Q5Mc85FnMnB7LO+uvkSsZA5iZPaJkfjESHxilMOXQDl8g1AOHwYy+8Qohy+CcviMUQ7feJTDR4x8PjHK4cuA/FbwHpjNfD/LBXUQ6FFvMPLJdsjnEyPxiVEOHzHK4YvA8pc2ZPaJMUvjqv2zKLGZnDvydXZ5l2F5WDl8xMjsEyPxiYHd0hX1lGx1+2jmL0Tqb/ukkPiL4QQveTpRtE+MZj4xEp8YiU+MxCdG4hMj8Yn5XOF7v9+peuDtdvv8n7Xdjqbl3fBDZuKM4Ku1W2afmOTMZzSN4cxeve1R8WvMW+6NWbldptzbqI/uayk7Ihzsj+vHv5YBUNPu2HWs7mfaluJJ/Ba/lhO0tYKp+44GD0q61Zl25/qx5yvcn8T3R34tqYrPwFUm3u8j675SwEeMxCdG4kcY/aSD4h6H5/C1vj/36vt6g1KPHMPF7x3tj7rP0WvWzxD0yux7sC1sSXwD/Ec9SyT+fxiXsyU+MV3Fn3V170r8PrI2/V2i/dzLDGrepNnjiDXK0eqz9b9iIp0WP1fBEWW5z+7RWT22dWvaXbsR1nNAJMVnS3Fia++mgI+bJrPPOEu2Bdutg5rEyOwLQce2bX8B/uihPSD8i3sAAAAASUVORK5CYII="/>
+  </g>
+</svg>

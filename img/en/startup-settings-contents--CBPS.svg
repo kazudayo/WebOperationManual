@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 354.33 70.87">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #231815;
+        stroke-width: 6.16px;
+      }
+
+      .cls-3 {
+        fill: #231815;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-1" x="144.57" y="2.83" width="65.2" height="65.2"/>
+    </clipPath>
+  </defs>
+  <g id="_レイヤー_2" data-name="レイヤー 2">
+    <rect class="cls-1" width="354.33" height="70.87"/>
+  </g>
+  <g id="_レイヤー_1" data-name="レイヤー 1">
+    <line class="cls-2" x1="228.05" y1="35.43" x2="257.51" y2="35.43"/>
+    <polygon class="cls-3" points="265.04 35.43 252.63 23.9 252.63 46.97 265.04 35.43"/>
+    <line class="cls-2" x1="89.29" y1="35.43" x2="118.75" y2="35.43"/>
+    <polygon class="cls-3" points="126.28 35.43 113.87 23.9 113.87 46.97 126.28 35.43"/>
+    <image id="_スタートアップセッティング3_画像" data-name="スタートアップセッティング3 画像" width="128" height="128" transform="translate(283.33 2.83) scale(.51)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIEAAAB/CAYAAADIOKE5AAAACXBIWXMAABWvAAAVrwEEu8dLAAAE+klEQVR4nO2d224cIQyGSbWR2jfaizx+LvaNWimRWk0iWkI5GDAH2/8nrZQNOwfgBzxgM0/fb7ffDpjl1/v70y3M/OvjATUY4OV+/5LJW5zl+AdAF6mG/g11DCACIE8EP9/e/n5WXlMz/9kEJ3NVxo/n5y+VE34HfZgaDkotupSmXWiiRYBegAdRw0GNsDXHw0b8t08vpYX/T/0vpJR+ulhFieAqzJwdULIXwgqPjy2lUe4ndT1ptou44cALAfAh0iaAEHgRaxhCCHyoNQwBHVUiOMX4ktZLiRoOJBXsJQT/OR0sIAGZ8wThd0raDjBZNJFSgdYKu/fYVFpu0ol6LyeB4QBABCAxHMDZ1B5wOTfO5XKO4QDAJgAQgXkcRAAcRAAcRAAcRKCXlhVXiEAhXgBUIUAEyogrniIEVZ5FoG/1srsnSAWFrg4SjQNHWq+/I7j1REwPBwhj+4RNBNZbk2RgGAIew7AUyBmSChKNA0M5u+ha0Cjl2Nz95Xq+XCBs6/VXMq0nCAutVnCarh8/o+/KfwtsIoCRJZdhEVg3COPwd4mw9AQ7CoDiBg5osBmGuQqw3lNIyP+wCGrBlzlx+ONGC+n0QjYVi9hTGZKCNjUj1iaIrwsh9bNsxlDzQg1FgCfnn1UE1o1AqbD5E6RCw2P1l6ZU43Su+6GGiMdPOKOGa+v1d4IwNOMgDA18ABGAtE0AA08GXDbGkGFY8x/Qjpb8dw8H4Rp5ySFk9ozgrhlHav4p59n91ACbAPDNE1i3IyTnf1rwSem9ArnfpNKovojU31Ovz0HLizB2uqBNE0HNMTM1w5hbls695KJ0/hopkXDuSVw7/+j9c7ItDI2a6dOdNDUwFIbmFs2HnyiAlfmfzVBPsKJLO7kHOKlLH4HlEbG3VWjxLNo5T8LBNptgZuTRSZhwNAXn0erDYF4ENUcXC3SLQMuj24jnUMvxJ5eX+Z5AI632Fcs8QY/KU8dzsuP88fY5pfSTSPoYYnZOBhyN5/IxTA4HCOSwBfwJAEQAmNYOPNKGkZHAkJ49jdTtWbTK+p0Zw7eiUkztWbQL7Eg6DmssIpDJ1BnDms1A2ecw/p7zzeu5Pvhk2z6GPgo4lx7PJLbOLNbOD/6xzSbgapU5mwCtng5LBJJlNBimLLGI2r2DStQag4RNKlgMw3BXjtZxeyYntFBTW9i1In0pWRNYOwDzPYskjInW6RYB1RhExZ8PhgMwf6eSluM5aT2/5fkO7GNoHOxjCD6ACACCT7TRs5iGnkAZLf4WHohAIb7iqU9rEIFSWh7XIQIAEQCIwDwOIgAOIgAOIgAunDF8fTz23sliXu73jwtazXdI97Rx6mRSGKl4jfnGcADKPYHFLjNu6RbynhXBSLdXWsmKYxPC77XjqGm9fo2x6K/v16dHCL1lEB9b22yTw4czKQKOca/3pVAuUSiUc5YKdRe99+CDeUpvR+HMX1IEYUuYwSmVFLOq6w8r+YSygGEIIAIAEWSZ/WR0ylDgVrwNzWVcnnoKoPV1eruREoK37L2Is8/J2bK4egEpIXhbt6s5MerH4gSZKpvgVGGlCB8RdwPDMMDqyiJEAPaKYJbxePqQEBqwJ9zvkkdEx1Th0nYo7b3f8KXaK/I4RQTUhZ7cb0cWj2q/pcCxnDxyv6t3fymKwJqBZC2/HhiGoH84sNpqNOYb29UYB9vVAOecc38AwugaoGhNVdMAAAAASUVORK5CYII="/>
+    <image id="_スタートアップセッティング2_画像" data-name="スタートアップセッティング2 画像" width="128" height="128" transform="translate(144.57 2.83) scale(.51)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAH8AAAB/CAYAAADGvR0TAAAACXBIWXMAABWvAAAVrwEEu8dLAAADUElEQVR4nO2cwW7jIBQAvatU2v2jHPr5PeSP9tDDrlqViqVgO6QvMcyMVLWpU2IYeGBcvx+/Tqe/iyA5pUq/XC72AADP5/NnJU95dfMDMh/lAP+pYy7KB3OKqvqf19fPn38/PU3XwjPUL0T+W8PkDVK+Hp1Z6vewsJ+PnCOXGcFRzvMu8mcM+zmG/Z3kvT79XIbQRK1Ra8fXytwK0RFzd6vMrbrfmxD5bxVqzYMtKbXf7Z1b18pco3fuXqvfWpm95xlFWNhPDXTt37Q42qKqp35HI3TO72mgt/enr6MzegcIX/Bd00BpdKevERi5A9x9wUdglM6Alx+x2h8laoWE/ZHCYM80M/pCL+GNHTCh1/n5656/iziXiDLz+vXW/RGEzflblW4dv/b30WVe+1l7yj1KhzDsg1E+mP/Cvv/EycJ/3QZj2AejfDDKB6N8MMoHo3wwyp+QvfcylD8ZSfyeDqD8iSiFb3UAd/jAOPLBKB+M8sEoH4zywSgfjPLBKB+M8sEoH0z1oY3WnvDsuXVorD6xc3TZR8hrMzJTh/1RMnw8Cud8MF0PatbSnS1F+C1HXC3zVuv4Vvmt+9blZ7Smg1o0uOb8ZiE0OUOe9KCVg64ldI0ymUJvDp+o8xsF53wwq2F/KwHBdyUhcLX+GIa+1JPb6A77ZSSoYdg9NqGp2Iwcx6Z75NdWxzS2Itutx6Nxk6dCfnk3c8f+tk2etazYW3vwR9yjX9uwqr0n4ng0jnwwu6/zl45kir37BLXj94awvevjWmAM+2CUD0b5YJQPRvlglA9G+WCUD0b5YJQPRvlglA9G+WCUD0b5YJQPRvlglA9G+WCUD0b5YJQPRvlglA9G+WCUD0b5YJQPRvlglA9G+WCUDyY0FZvclz0JpXMc+ROxN+t4QvmTkYTvySFkTh4wjnwwygejfDDKB6N8MMoH877D93K5oFrg+Xx+/06td6Jre7csZCRuET5bvQ37YJojnxgay5E9e92rI3/k8NZL3tmT9Nnb4Yt8ongqX8I+pdeX0Fb+iws+NsoHo/wKlCsd5YNRfgFpf0P5GbSNLeWDUf4HxO1s5YNRPhjlg/FZvQLSbd2mfNqNDm/sCIqusE8cJcuE9fZBTTCGfSrLsvwDCVqUucxTr/EAAAAASUVORK5CYII="/>
+    <image id="_スタートアップセッティング1_画像" data-name="スタートアップセッティング1 画像" width="128" height="128" transform="translate(5.81 2.83) scale(.51)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAAB/CAYAAAAn+soHAAAACXBIWXMAABWvAAAVrwEEu8dLAAAD9klEQVR4nO2d3U7jMBBG21WQ2DfqBY/PRd8IJCqxKlojY5w/p2OP/Z0jVVBKTWZ84nGS4pyfp+nzBJK8327nKQT+er1igQAvl8uPIKf4SfoijEVuJ/9DH2uDAOJMVuG/fXx8f//36Wm4LI8Sn4kA9+TESUmf985I8TUrAfEe5LlNCzxtZxUBRiwBMZSAHcT2h+/T4TSQS2zu9aU214Zri1o+1+Za7C0wEeAe1FxdnOuY3M+21tqlNpcoreVL8S21WbqdlpiVgJCkve+Zw9tEqyQ+j5jOAUqSdP/98PDOCBKYTwL3JCns5eHRA71LUH0SqEBPQsgLYHEU0NNhoUkJ6GkPKCk5I0z+AlwMEsf0PED8vOR9Ftti0WYcX2nsrTCbA6wFPvf63p9bt7n3b21p15MUlABxEECcHyWAD4bqwcfChbl/LJwSIA4CiIMA4iCAOAggDgKIgwADsufaBwIMRuj8rRIgwECknb5FAvlPBI1EyVVGRgBxEEAcBBAHAcRBAHEQQBwEEAcBxEEAcRBAnNlTwel55NHX+fFGrfwzAjgkXj8otw7SI8kKUHMDoC1cDXRIzXJbJEBuKbZTsuFHatjR9re8f+s2lLRvnZ9HcngOkCsN1iWkp/Zb5GcPh0qAl8UOvfKI/Fjn+PAcQKHzrdYR8MChEjB65x8dlo/mp8YIa3oU0OuhY1yXLVco9ZAfUwFKExfW2Rn93IOHEXRRgJYdsHTIVHMbYhFHLHmLc4Celmy1omX8NfJf5VpAb8N57e1tmR8uBjmmhhimC0WWLpiYCzq3GOPaYo2lyWvdfk1YJEoYFokC5gDqIIA4CCAOAoiDAOIggDgIIA4CiIMA4iCAOAggDgKIgwDiIIA4CCAOAoiDAOIggDgIIA4CiIMA4iCAOAggDgKIgwDiIIA4CCAOAoiDAOIggDgIIA6rhQ/E2soqORgBBiLt7C3LziDAYIRO37rmEAIMyJ4FpxBAHAQQBwHEQQBxEEAcBBDn60zg6/UqlYWXy+Xrq2rcMUWngnMN9cKRTh8xbkqAOLMjgOIwme7hCrFnRwCroS69WhU/D+vnx4/0dy1voBALHzreIg9LOThViDPl1wjQss7NncNOb91meSu3lrSI85cAlvaHO2XEX71Qc7j3FHuXk0D1O5k9Eo4CxKkuQMnwH95TC6UjIFcjwNIMuLYElniKxdWHQtdGhRqTR7XzH93NASz3npqd72UUYBIoDgL8R/UKYRcCjDL58wgjQEM8nNBydRSQ7unxPzl4uNGyNS3ibCJALrAth4A1sL4kvPbvW7XlnhVAbTKkFm+AOYA4RSVAdW8ZMe7z8zR9OtgOaMD77XamBChzOp3+ATMLNEHjkinWAAAAAElFTkSuQmCC"/>
+  </g>
+</svg>

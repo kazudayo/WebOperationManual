@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 226.77 65.78">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="_レイヤー_2" data-name="レイヤー 2">
+    <rect class="cls-1" width="226.77" height="65.78"/>
+  </g>
+  <g id="_レイヤー_1" data-name="レイヤー 1">
+    <image id="_ダンパーノイズ_画像" data-name="ダンパーノイズ 画像" width="128" height="128" transform="translate(14.17 .39) scale(.51)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAACXBIWXMAABWvAAAVrwEEu8dLAAADdUlEQVR4nO2dXW6jMBgAkxWVujfKQ4/fh9xoKzVSq0TrXUIxAccG7JmRooi6EBsPn82P8fG1674OguTjcjl2oeDv57MWAHg7ne4K2fUXhonSFmMH+S/rmI0CwCkiwJ/Pz3+fWhnmfWlZail7sQjw++Xl9qlZAgLFm4CaJXgm39dy14B9ADjdFsXvH1nDI+WaFqLGWNrUerG0OelLmfN7S/ORO49zWF2A4Y7pLw8rfyxtar05v1G6DKnrlc5zjNWbgLXbxmd2ZOn+yx76CZs3ASRiTduWrB4Bwg4In72TOwrs7axokwhQgpqiypxO7lpUJcBUL7mW8+7AmARblKEqAWqr5Boo3gfYW6cnhVz532MzVSwChMKOhercO2K4zdLCpf7e1HprlyFQRIBHmY+lh78Pv3NscymP+hgl8rNFpPReABwFgHPXBPhgKA8fCwdzfSzcJgCOAsBRADgKAEcB4CgAHAVokCX3WhSgMULlz5VAARoiZThbM4+ESdrdRCMAHAWAowBwFACOAsBRADgKAEcB4CgAHAWAg7wUHLtGThx7iL4X4GBTmwA8CgBHAeAoABwFgIM+C9jihQx7Ax0B+q+qo767EBkBPP//j30AOAoARwHgIAWofT6jnBgB4GDfETSMAMQzg7upY2m0WuFLL27ZBMBRADgKAEcB4Ph+gMZY2rk1AsBRADgKAEcB4CgAHAWAowBwFACOAsBRADgKAEcB4CgAHAWAowBwFACOAsBRADgKAEcB4CgAHAWAowBwFACOAsBRADgKAMexgQ0x9t6jR2MFjQANMaxs3xACJFT63FHCCtAgS4aIKwAcBYCjAHAUAI4CwFEAOLcrge/nM2ovvJ1Ot29qufskXQoe21AtPFPpLZbbJgBONAIQw+TwCCeUfTQC1BzqUukLHyo+dT+EGUlis5JMpcfSHi2n8iMCECu/BP35CPvX5qeWH/1vCX4I8Kz9tbLHcB+r/Jxi2AmEowCVkbtZUIARSGdAClARJTqFPhQ6INfRX8vElEaAHjlDf5ia/vrJJUPObQWMABuwp+hgBPjLmh2/fnRIWTenQAoARwF2TOxIzxkF7AMUYukcvoeRil1jfmMFGJDjlvBUxT0avhVbN2XY1xyiAtAel6KVN2AfAE5SE0A9Wlos9/G16752kA/ZgI/L5WgTIILlcDh8A9vlcl7fKpmmAAAAAElFTkSuQmCC"/>
+  </g>
+</svg>

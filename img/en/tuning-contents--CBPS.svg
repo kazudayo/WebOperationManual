@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 226.77 65.78">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="_レイヤー_2" data-name="レイヤー 2">
+    <rect class="cls-1" width="226.77" height="65.78"/>
+  </g>
+  <g id="_レイヤー_1" data-name="レイヤー 1">
+    <image id="_チューニング_画像" data-name="チューニング 画像" width="128" height="128" transform="translate(14.17 .39) scale(.51)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAACXBIWXMAABWvAAAVrwEEu8dLAAADeklEQVR4nO2dwW7jIBQAk5Urdf8oh35+D/mjrbSRumq1SC41NiFQG2bmUiUObmyG9zCx4fw8Te8nQfJ2u52ncOCv16sWAHi5XL4c5DR/EW+UsVhq5L+sYzYKAGfq5fD//P377b3fT0/V9l1rX73RjQChgsiV1QJTQMVI0iMKAKebFLBGnBbmr+O+w1JrX0orW+Xm23uOIEMIsEVKjtJya8L1hikAjgLAUQA4CgAH0QmszUeHb2lkskcUoJD4KqBXTAFwhogAe4RkB4J2InWyc99f+lzOezn76RFTABwFgPMlBXhjKA9vCwfzcVu4KQCOAsBRADgKAEcB4CgAHAUYkHt+F1GAwQiVnyuBAgxEXOk5EnhDyECU/EJpBICjAHAUAI4CwFEAOAoARwHgKAAcBYCjAHCaDwWH8ejUMGVqe87ULjn/t6R8/J22jqFnDhkB5ic8NddPy/IkmgqwddKtlP2xDwCnWR9g5Naf+u499hGaRoCtE5Jzwh4VpYVooW8x72P0iikATpMUUCv87936c8r3foloBFhhhBC/RTMBauT/ez7XqvwaIwwQGQHgNBPgo3XMc+jSLctr208ZLSvex73lH2GU4eEmncClOfTm721tl5+j6+cC9pJmJGntA8A5ZAQIEz+WTsb4aPlcHv3J+gg4SRSYL2sHyxjcG/XsA8BRADimgMG4tyNqBICjAHAUAI4CwFEAOAoARwHgKAAcBYCjAHAUAI4CwFEAOAoARwHgKAAcBYCjAHAUAI4CwFEAOAoARwHgKAAcBYCjAHAUAI4CwPHh0IEomWnNCDAQcWU7QQSQUOm5j4krwIDcM0eAAsBRADgKAEcB4CgAHAWA8zkS+Hq9os7Cy+Xy+Zd63HOKhoKXdtQLj1T6iMdtCoCTjADEMBm3cMKxL0aAnkNdKXPhQ8WXnoewVkFqPaO17altW69L+RYBiJXfgvmy9fEaSanXW59twTcBHrW/V44Y7lOVX1MMO4FwFKAzaqcFBViAdAWkAB3RolPoTaERtVp/rcu01hgBZtQM/WHp+bCGYQ1q7itgBNiBI0UHI8B/frLjN48OJWVrCqQAcBTgwKRaes0oYB+gESULV8cV+xOLUStARI2fhNcqbuvxrVTZkse+ckgKQLtdina8AfsAcIpSALW1jHjc5+dpej/A95AdeLvdzqYAESyn0+kf4ddofrOfMdwAAAAASUVORK5CYII="/>
+  </g>
+</svg>

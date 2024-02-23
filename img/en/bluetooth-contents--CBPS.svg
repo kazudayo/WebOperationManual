@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 226.77 65.78">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="_レイヤー_2" data-name="レイヤー 2">
+    <rect class="cls-1" width="226.77" height="65.78"/>
+  </g>
+  <g id="_レイヤー_1" data-name="レイヤー 1">
+    <image id="Bluetooth_画像" data-name="Bluetooth 画像" width="128" height="128" transform="translate(14.17 .39) scale(.51)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAACXBIWXMAABWvAAAVrwEEu8dLAAADM0lEQVR4nO2dXW6jMBgAyYpK3RvlocfvQ260lRqpq0TrlUsNOA5/9sxIKCGAFcfjzwYcc3rt+69OkHxcr6c+ZPz9ctECAG/n87dM9vHKcKO0RaqS/7KM2SgAnM0F+PP5+X+Z2qdWavvuu0SA3y8v96Xmgm4FTBOwhmwtCGwfAE5fS/Zvte3WbEytB8Y+D+9zjlsrzaNRjQBTTMkRXof7pD6L10vT7BIyHFkCmwA4u0QAe//HYRcBagqRrdNEH6AzqhTTjABGkTLsBMJRADi7nwXkhu6pewfDbaVpxseVplkbmwuQ80OO7TN17Fy6W6U5/Ozo4tgEwFEAON+aAAeG8nBYOJjbsHCbADgKAEcB4CgAHAWAowBwFKBBHhkboQCNEQo/VwIFaIhhoedI0MyIICm786gAjfHoGAabADgKAEcB4CgAHAWAowBwFACOAsBRADhVCzA33ZzMU60AqXl65HGqjgBhvkEpp0oBUjXeKFBGk3cDUzIYKdI0fRYQNxFGiDSeBsJRADgKAEcB4CgAHAWAowBwqhQgZ3YuyaPqK4Fe3HmeapuA4aSOUkbVESB38kcFGcdOIBz/G9gYj0Y7IwAcBYCjAHAUAI4CwFEAOAoARwHgKAAcBYCjAHAUAI4CwFEAOAoARwHgKAAcBYCjAHAUAI4CwFEAOAoARwHgKAAcBYCjAHAUAI4CwFEAOP49vCFKJsk2AjREycwoCtAYodBzJ4pQgAZ5ZJYQBYCjAHAUAI4CwFEAOAoA534l8P1yQf0Kb+fz/ZWa75iiS8GphGrhmUJvMd82AXBGIwAxTA5rOCHvyQhQc6grJRY+FHzp7xAeaz/2QIup7WPb5tZL+REBiIW/BvEja+Nr81Prc/uuwQ8BnrW/Vo4Y7scKf0kx7ATCUYDKWLpZUIAEpDMgBaiINTqFDgodsFTtr+WZhkaAiCVD/62mhmUpGZZMK2AE2IEjRQcjwD+27PjF0aHk2CUFUgA4CnBgxmr6klHAPsBKxAWUG+qHBbvFM48VYMASt4SnCm7u71tbPxB7VADacClafgP2AeAUNQHU2tJivk+vff91gO8hO/BxvZ5sAkSwdF33FyTUOowR9jAGAAAAAElFTkSuQmCC"/>
+  </g>
+</svg>
